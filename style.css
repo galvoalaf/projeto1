@@ -1,8 +1,15 @@
-#imagem-gtr.webp{
+#imagem-scania.jpeg{
     width: 100px;
     border: slid 3px rgb(0, 0, 0);
 }
 
 .principal{
-    bacd-color : na
+    bacd-color : navy;
+    color: white;
+}
+
+.rodape{
+    background-color: navy;
+    color: white ;
+    rext-align: center;
 }
