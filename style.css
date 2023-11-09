@@ -4,12 +4,12 @@
 }
 
 .principal{
-    background-color : navy;
+    background-color : rgb(232, 236, 238);
     color: white;
 }
 
 .rodape{
-    background-color: navy;
+    background-color: rgb(200, 200, 207);
     color: white ;
     rext-align: center;
 }
