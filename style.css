@@ -5,11 +5,11 @@
 
 .principal{
     background-color : rgb(14, 151, 219);
-    color: white;
+    color: rgb(196, 29, 29);
 }
 
 .rodape{
     background-color: rgb(236, 32, 32);
-    color: white ;
+    color: rgb(194, 41, 41) ;
     rext-align: center;
 }
