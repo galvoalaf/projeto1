@@ -1,5 +1,9 @@
 .cabecalho{
+    background-color: blue;
     border: 10px;
     border-color: blue;
     border-style: dashed;
+    margin: 10px;
+    color: black;
+    font-weight: 400;
 }
