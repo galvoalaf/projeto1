@@ -7,3 +7,16 @@
     color: black;
     font-weight: 400;
 }
+
+#scania.jpeg{
+    width 300px;
+    border: 3 px black solid;
+}
+.principal{
+    background-color: black;
+    border: 10px;
+    border-color: aliceblue;
+    border-style: double;
+    margin: 30px;
+    color: yellow;
+}
