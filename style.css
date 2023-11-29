@@ -3,6 +3,11 @@
     color: blue;
     text-decoration: none;
 }
+#link:hover{
+    font-size: 25px;
+    color: rgb(179, 255, 0);
+    text-decoration: underline;
+}
 #imagem-scania.jpeg{
     width: 10000px;
     border: slid 3px rgb(1, 1, 1);
