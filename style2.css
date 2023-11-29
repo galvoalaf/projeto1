@@ -12,6 +12,15 @@
     width 300px;
     border: 3 px black solid;
 }
+
+.lista-links{
+    font-size: 30px;
+
+}
+.lista-links:houver{
+    font-size: 40px;
+    color: greenyellow;
+}
 .principal{
     background-color: black;
     border: 10px;
